@@ -13,3 +13,6 @@ This Dart program contains a function to find the minimum value in a list of int
 
 - `findMinimumValue`: This function iterates through the list of integers and keeps track of the smallest number found.
 - The `main` function demonstrates how to use `findMinimumValue` with a sample list.
+
+## Output
+![Output Screenshot](screenshot.png)
